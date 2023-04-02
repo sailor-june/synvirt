@@ -1,0 +1,25 @@
+
+.saxon-blue{
+    background-color: #5d7fbe;
+  }
+  
+  .goldenrod{
+    background-color: #DAA520;
+  }
+
+
+  .blue-glass{background: rgba( 93, 127, 190, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );}
+
+    .gold-glass{
+        background: radial-gradient(rgba(255, 193, 36, 0.297),rgba(249, 188, 35, 0.719));
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+    }
